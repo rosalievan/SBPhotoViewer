@@ -1,0 +1,11 @@
+.main-image{
+    margin-bottom: 20px;
+
+}
+
+.small-image-row{
+    display: flex;
+    width: 600px;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
